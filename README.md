@@ -1,6 +1,7 @@
 # minecraft-undetected-hack
 Minecraft Undetected Hack | Minecraft Algılanamaz Hile 
 
+new features added!
 
 #Setup - Kurulum
 
