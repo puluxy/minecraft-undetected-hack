@@ -1,4 +1,7 @@
 # minecraft-undetected-hack
+
+https://github.com/puluxy/minecraft-undetected-hack/releases/tag/hack Latest Version
+
 Minecraft Undetected Hack | Minecraft Algılanamaz Hile 
 
 new features added!
